@@ -1,6 +1,6 @@
 # Single-page CV
 
-This project is part of a challenge recommended by Roadmap.sh, designed to help front-end developers gain a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare our webpage for future styling.
+This project is part of a challenge recommended by Roadmap.sh, designed to help front-end developers gain a solid understanding of how to create a single-page CV using HTML to apply basic SEO principles, and prepare our webpage for future styling.
 
 You can find the challenge <a href="https://roadmap.sh/projects/single-page-cv">here</a>
 
